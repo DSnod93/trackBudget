@@ -18,10 +18,10 @@ Provided a previous created Budget Tracker application, a user can update their 
 
 
 ## Offline
-<img src="public/assets/images/offline.jpg">
+![offline](images\offline.JPG)
 
 ## Online
-<img src="public/assets/images/online.jpg">
+![online](images\online.JPG)
 
 # Technologies
 * Javascript
